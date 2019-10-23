@@ -3390,7 +3390,7 @@ a.navbar-logo {
         font-size: 130%; } }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.05)), url(../img/Dragonic.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.05)), url(../img/background.jpeg);
   box-shadow: inset 0 -10px 70px rgba(0, 0, 0, 0.75);
   height: 75vh;
   background-position: 75%; }
@@ -3927,7 +3927,7 @@ ul#model-feats {
   width: 11px; }
 
 .testimonials {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.25)), url(../img/developers.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.25)), url(../img/background.jpeg);
   background-size: cover;
   background-position: center center;
   box-shadow: inset 0 -10px 50px #000000;
